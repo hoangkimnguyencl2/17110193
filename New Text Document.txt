@@ -1,6 +1,0 @@
-F9: dánh d?u dòng b?t d?u ki?m l?i
-F10: ch?y t?ng l?nh(step over == không ch?y vào chi ti?t
-F11: ch?y t?ng l?nh(step into == ch?y vào chi ti?t n?u l?nh dó g?i 1 hàm khác)
-Khi ch?y:
-F5 : ch?y có debug
-Ctrl + F5 : ch?y không có debug
